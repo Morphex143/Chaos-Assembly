@@ -1,0 +1,124 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:Chaos_Assembly.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:wv="Avalonia.Controls.WebView"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Chaos_Assembly.Views.MainWindow"
+        x:DataType="vm:MainViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="Chaos_Assembly"
+        >
+
+ <Grid Background="#404040">
+        <TabControl x:Name="BrowserTab" 
+                    Margin="0,0,0,0" 
+                    BorderThickness="0,0,0,0" 
+                    Padding="0" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Top"
+                    >    
+
+            <TabItem Header="DEV" MinHeight="15" FontSize="15" Padding="6" >
+                <Grid Background="#FFE5E5E5">
+                        <Button  x:Name="test" 
+                         HorizontalAlignment="Stretch" 
+                         VerticalAlignment="Top" 
+                         Margin="0,50,0,0" 
+                         Click="TestBTN" /> 
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+               
+                <TextBox x:Name="URL_Bar" 
+                         VerticalContentAlignment="Center" 
+                         PlaceholderText="Type URL..." 
+                         KeyDown="EnterClicked"
+                         Height="10" 
+                         HorizontalAlignment="Stretch" 
+                         VerticalAlignment="Top" 
+                         Margin="90,30,90,0" 
+                         CornerRadius="25" 
+                         BorderThickness="1" 
+                         Padding="0" 
+                         BorderBrush="White"
+                         />
+
+                <Button  x:Name="NewTabBTN" 
+                         HorizontalAlignment="Right" 
+                         VerticalAlignment="Top" 
+                         Margin="0,0,0,0" 
+                         Click="NewTab"
+                         Content="+"/>    
+
+                <Button  x:Name="BBTN" 
+                         HorizontalAlignment="Left" 
+                         VerticalAlignment="Top" 
+                         Margin="0,30,0,0" 
+                         Click="Back"
+                         Background="Transparent"
+                         Content="🡠"/>  
+
+                <Button  x:Name="FBTN" 
+                         HorizontalAlignment="Left" 
+                         VerticalAlignment="Top" 
+                         Margin="30,30,0,0" 
+                         Click="Front"
+                         Background="Transparent"
+                         Content="🡢"/>  
+                <Button  x:Name="RBTN" 
+                         HorizontalAlignment="Left" 
+                         VerticalAlignment="Top" 
+                         Margin="60,30,0,0" 
+                         Click="Refresh"
+                         Background="Transparent"
+                         Content="⟳"/>      
+                <Button  x:Name="MenuBTN" 
+                         HorizontalAlignment="Right" 
+                         VerticalAlignment="Top" 
+                         Margin="0,30,0,0" 
+                         Click="Menu"
+                         Background="Transparent"
+                         Content="☰"/>  
+                <Button  x:Name="Downloads" 
+                         HorizontalAlignment="Right" 
+                         VerticalAlignment="Top" 
+                         Margin="0,30,30,0" 
+                         Click="Dmenu"
+                         Background="Transparent"
+                         Content="⤓"/>  
+                <Button  x:Name="Star" 
+                         HorizontalAlignment="Right" 
+                         VerticalAlignment="Top" 
+                         Margin="0,30,90,0" 
+                         Click="BookmarkSite"
+                         Background="Transparent"
+                         
+                         Content="☆"/>  
+
+                <Button  x:Name="Bookmark1" 
+                         HorizontalAlignment="Left" 
+                         VerticalAlignment="Top" 
+                         Margin="90,60,30,0" 
+                         Click="Book1"
+                         />  
+ 
+                <Button  x:Name="Extentions" 
+                         HorizontalAlignment="Right" 
+                         VerticalAlignment="Top" 
+                         Margin="0,30,60,0" 
+                         Click="Dmenu"
+                         Background="Transparent"
+                         Content="a"/>  
+               
+                
+               
+
+
+
+
+        
+ </Grid>
+</Window>
