@@ -16,3 +16,7 @@ More Creative Trolling Features, more websites, maybe acual assets, and much mor
   1: Download linux-x64.zip from the newest release
   2: Unzip linux-x64.zip
   3: Execute Chaos Assembly
+
+
+# Preview
+<img width="1068" height="753" alt="grafik" src="https://github.com/user-attachments/assets/eedfc01f-93db-42ca-adac-aa5b56b10ba8" />
