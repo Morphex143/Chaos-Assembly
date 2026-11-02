@@ -22,5 +22,8 @@
       <PrivateAssets Condition="'$(Configuration)' != 'Debug'">All</PrivateAssets>
     </PackageReference>
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.2" />
+    <PackageReference Include="Eremex.Avalonia.Controls" Version="1.4.38" />
+    <PackageReference Include="Eremex.Avalonia.Themes.DeltaDesign" Version="1.4.38" />
+    <PackageReference Include="MessageBox.Avalonia" Version="12.1.0" />
   </ItemGroup>
 </Project>

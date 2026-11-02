@@ -16,19 +16,32 @@ namespace Chaos_Assembly.Views;
 
 public partial class Popup : Window
 {
+    public Popup(double PosX, double PosY, double Width, double Height, bool Jump, Window MW)
+    {
+        InitializeComponent();
+        LayoutSize.Height = Height;
+        LayoutSize.Width = Width;
+        if (Jump)
+        {
+            JumpWindow(MW);
+        }
+        Position = new PixelPoint((int)PosX, (int)PosY);
+    }
     public Popup(double Width, double Height, bool Jump, Window MW)
     {
         InitializeComponent();
         LayoutSize.Height = Height;
         LayoutSize.Width = Width;
-        if(Jump)
+        if (Jump)
         {
             JumpWindow(MW);
-        }       
+        }  
+  
+    
     }
     private async void JumpWindow(Window MW)
     {
-        
+
         var random = new Random();
         while (true)
         {
@@ -44,6 +57,8 @@ public partial class Popup : Window
 
             await Task.Delay(600);
         }
-        
+
     }
+
+
 }

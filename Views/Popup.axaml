@@ -7,9 +7,10 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="Chaos_Assembly.Views.Popup"
         x:DataType="vm:MainViewModel"
-        Icon="/Assets/avalonia-logo.ico"
+        Icon="/Assets/logo.ico"
         Title="Popup"
-        SizeToContent="WidthAndHeight">
+        SizeToContent="WidthAndHeight"
+        >
         <Grid x:Name="LayoutSize">
         <Image x:Name="MContent" Stretch="Fill" Source="/Assets/PlaceholderAD.png"/>
         </Grid>

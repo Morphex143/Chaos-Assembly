@@ -2,6 +2,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              x:Class="Chaos_Assembly.App"
              xmlns:local="using:Chaos_Assembly"
+             xmlns:theme="clr-namespace:Eremex.AvaloniaUI.Themes.DeltaDesign;assembly=Eremex.Avalonia.Themes.DeltaDesign"
              RequestedThemeVariant="Default">
              <!-- "Default" ThemeVariant follows system theme variant. "Dark" or "Light" are other available options. -->
 
@@ -10,6 +11,7 @@
     </Application.DataTemplates>
 
     <Application.Styles>
+        <theme:DeltaDesignTheme/>
         <FluentTheme />
     </Application.Styles>
 </Application>

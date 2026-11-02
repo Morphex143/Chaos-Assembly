@@ -1,3 +1,10 @@
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.csproj.AssemblyReference.cache
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Avalonia/resources
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.GeneratedMSBuildEditorConfig.editorconfig
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.AssemblyInfoInputs.cache
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.AssemblyInfo.cs
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.csproj.CoreCompileInputs.cache
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Chaos Assembly
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Chaos Assembly.deps.json
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Chaos Assembly.runtimeconfig.json
@@ -14,6 +21,7 @@
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Avalonia.OpenGL.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Avalonia.Vulkan.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Avalonia.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Avalonia.Controls.WebView.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Avalonia.Desktop.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
@@ -28,13 +36,124 @@
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Avalonia.X11.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/CommunityToolkit.Mvvm.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/DialogHost.Avalonia.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/DynamicData.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/BouncyCastle.Cryptography.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Eremex.Avalonia.Charts.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Eremex.Avalonia.Controls.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Eremex.Avalonia.Icons.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Eremex.Avalonia.Themes.DeltaDesign.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Eremex.Common.Contracts.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Eremex.DocumentProcessing.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Eremex.Pdf.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Eremex.Drawing.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Eremex.Drawing.Skia.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ExCSS.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/HarfBuzzSharp.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/MsBox.Avalonia.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/MicroCom.Runtime.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.Configuration.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.Logging.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.Logging.Configuration.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.Logging.Console.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.Options.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Extensions.Primitives.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Microsoft.Win32.SystemEvents.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/PdfSharp.Charting.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/PdfSharp.Quality.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/PdfSharp.Snippets.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/PdfSharp.System.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/PdfSharp.WPFonts.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/PdfSharp.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/SharpDX.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/SharpDX.Direct2D1.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/SharpDX.DXGI.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ShimSkiaSharp.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/SkiaSharp.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Svg.Animation.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Svg.Controls.Skia.Avalonia.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Svg.Custom.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Svg.Model.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Svg.SceneGraph.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Svg.Skia.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/System.Drawing.Common.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/System.Reactive.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/System.Resources.Extensions.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/System.Security.Permissions.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/System.Windows.Extensions.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ru/Eremex.Avalonia.Charts.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ru/Eremex.Avalonia.Controls.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ru/Eremex.Drawing.Skia.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/zh-Hans/Eremex.Avalonia.Charts.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/zh-Hans/Eremex.Avalonia.Controls.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/de/PdfSharp.Charting.resources.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/de/PdfSharp.resources.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
@@ -57,6 +176,7 @@
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/linux-bionic-arm64/native/libSkiaSharp.so
@@ -77,17 +197,13 @@
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
-/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.csproj.AssemblyReference.cache
-/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
-/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Avalonia/resources
-/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.GeneratedMSBuildEditorConfig.editorconfig
-/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.AssemblyInfoInputs.cache
-/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.AssemblyInfo.cs
-/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.csproj.CoreCompileInputs.cache
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos As.64D4E289.Up2Date
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/refint/Chaos Assembly.dll
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.pdb
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/Chaos Assembly.genruntimeconfig.cache
 /home/killian/Dokumente/Chaos Assembly/Chaos Assembly/obj/Debug/net10.0/ref/Chaos Assembly.dll
-/home/killian/Dokumente/Chaos Assembly/Chaos Assembly/bin/Debug/net10.0/Avalonia.Controls.WebView.dll
